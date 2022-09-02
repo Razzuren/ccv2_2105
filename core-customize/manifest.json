@@ -245,6 +245,10 @@
                 {
                     "name": "oauth2",
                     "contextPath": "/authorizationserver"
+                },
+                {
+                    "name": "samlsinglesignon",
+                    "contextPath": "/samlsinglesignon"
                 }
             ]
         },
