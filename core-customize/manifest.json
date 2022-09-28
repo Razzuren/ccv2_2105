@@ -2,6 +2,7 @@
     "commerceSuiteVersion": "2105.11",
     "enableImageProcessingService": true,
     "extensions": [
+        "samlssobackoffice",
         "cloudmediaconversion",
         "mediaconversionbackoffice"
     ],
