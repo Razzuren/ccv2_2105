@@ -1,5 +1,5 @@
 {
-    "commerceSuiteVersion": "2105.11",
+    "commerceSuiteVersion": "2105",
     "enableImageProcessingService": true,
     "extensions": [
         "samlssobackoffice",
