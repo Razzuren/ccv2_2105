@@ -291,8 +291,8 @@
                     "contextPath": "/medias"
                 },
                 {
-                    "name": "yacceleratorstorefront",
-                    "contextPath": ""
+                    "name": "samlsinglesignon",
+                    "contextPath": "/samlsinglesignon"
                 },
                 {
                     "name": "yb2bacceleratorstorefront",
